@@ -1,0 +1,29 @@
+{
+  "collection": {
+    "id": 273262706894,
+    "handle": "seasonal-collection",
+    "title": "Skate",
+    "updated_at": "2021-09-21T17:50:57+08:00",
+    "body_html": "",
+    "published_at": "2021-09-21T17:50:07+08:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "products_count": 4,
+    "disjunctive": true,
+    "collection_type": "smart",
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "cap"
+      },
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "backpack"
+      }
+    ],
+    "published_scope": "web",
+    "admin_graphql_api_id": "gid://shopify/Collection/273262706894"
+  }
+}

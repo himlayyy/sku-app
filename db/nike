@@ -1,0 +1,295 @@
+{
+  "products": [
+    {
+      "id": 6764391170254,
+      "title": "NIKE | TODDLER ROSHE ONE",
+      "body_html": "The Nike Roshe One Infant Shoe offers breathable comfort and soft yet durable cushioning with a mesh upper and Phylon midsole that doubles as an outsole. The shoe is intended to be versatile, worn with or without socks, dressed up or down, for walking or just taking it easy.",
+      "vendor": "NIKE",
+      "product_type": "SHOES",
+      "created_at": "2021-09-11T20:33:46+08:00",
+      "handle": "nike-toddler-roshe-one",
+      "updated_at": "2021-09-11T20:40:13+08:00",
+      "published_at": "2021-09-11T20:33:46+08:00",
+      "template_suffix": null,
+      "status": "active",
+      "published_scope": "web",
+      "tags": "egnition-sample-data, kid, nike",
+      "admin_graphql_api_id": "gid://shopify/Product/6764391170254",
+      "options": [
+        {
+          "id": 8680000618702,
+          "product_id": 6764391170254,
+          "name": "Size",
+          "position": 1
+        },
+        {
+          "id": 8680000651470,
+          "product_id": 6764391170254,
+          "name": "Color",
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 28953414140110,
+          "product_id": 6764391170254,
+          "position": 1,
+          "created_at": "2021-09-11T20:33:46+08:00",
+          "updated_at": "2021-09-11T20:33:46+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/0ea90fb43c087d165cbf985098cc951e.jpg?v=1631363626",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953414140110"
+        },
+        {
+          "id": 28953414172878,
+          "product_id": 6764391170254,
+          "position": 2,
+          "created_at": "2021-09-11T20:33:46+08:00",
+          "updated_at": "2021-09-11T20:33:46+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/8eeca51f9690c7d3a450ac1afce12447.jpg?v=1631363626",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953414172878"
+        },
+        {
+          "id": 28953414205646,
+          "product_id": 6764391170254,
+          "position": 3,
+          "created_at": "2021-09-11T20:33:46+08:00",
+          "updated_at": "2021-09-11T20:33:46+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/e62b9da2f06b91ca1e2ef42437cfd265.jpg?v=1631363626",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953414205646"
+        },
+        {
+          "id": 28953414238414,
+          "product_id": 6764391170254,
+          "position": 4,
+          "created_at": "2021-09-11T20:33:46+08:00",
+          "updated_at": "2021-09-11T20:33:46+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/46a7bbc695d01a6b0e5fee283cbfba99.jpg?v=1631363626",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953414238414"
+        },
+        {
+          "id": 28953414271182,
+          "product_id": 6764391170254,
+          "position": 5,
+          "created_at": "2021-09-11T20:33:46+08:00",
+          "updated_at": "2021-09-11T20:33:46+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/986a2b052ada03689c1c0a576fd00d94.jpg?v=1631363626",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953414271182"
+        }
+      ],
+      "image": {
+        "id": 28953414140110,
+        "product_id": 6764391170254,
+        "position": 1,
+        "created_at": "2021-09-11T20:33:46+08:00",
+        "updated_at": "2021-09-11T20:33:46+08:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/0ea90fb43c087d165cbf985098cc951e.jpg?v=1631363626",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28953414140110"
+      }
+    },
+    {
+      "id": 6764390744270,
+      "title": "NIKE | CRACKLE PRINT TB TEE",
+      "body_html": "Meet your new favorite tee, the Nike Crackle Print T-Shirt. Bringing its A-game in soft, premium fabric, it features a ribbed crew neck and a woven Nike label on the hem.",
+      "vendor": "NIKE",
+      "product_type": "T-SHIRTS",
+      "created_at": "2021-09-11T20:33:18+08:00",
+      "handle": "nike-crackle-print-tb-tee",
+      "updated_at": "2021-09-11T20:40:12+08:00",
+      "published_at": "2021-09-11T20:33:18+08:00",
+      "template_suffix": null,
+      "status": "active",
+      "published_scope": "web",
+      "tags": "egnition-sample-data, men, nike, summer",
+      "admin_graphql_api_id": "gid://shopify/Product/6764390744270",
+      "options": [
+        {
+          "id": 8679999832270,
+          "product_id": 6764390744270,
+          "name": "Size",
+          "position": 1
+        },
+        {
+          "id": 8679999865038,
+          "product_id": 6764390744270,
+          "name": "Color",
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 28953409847502,
+          "product_id": 6764390744270,
+          "position": 1,
+          "created_at": "2021-09-11T20:33:18+08:00",
+          "updated_at": "2021-09-11T20:33:18+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/62a3dd0421fc5ccf4df6815b3694d734.jpg?v=1631363598",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953409847502"
+        },
+        {
+          "id": 28953409880270,
+          "product_id": 6764390744270,
+          "position": 2,
+          "created_at": "2021-09-11T20:33:18+08:00",
+          "updated_at": "2021-09-11T20:33:18+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/ef0746b3c879000196dfce266154b537.jpg?v=1631363598",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953409880270"
+        },
+        {
+          "id": 28953409913038,
+          "product_id": 6764390744270,
+          "position": 3,
+          "created_at": "2021-09-11T20:33:18+08:00",
+          "updated_at": "2021-09-11T20:33:18+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/544c0236ac6a8def363f3db689aacf08.jpg?v=1631363598",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953409913038"
+        }
+      ],
+      "image": {
+        "id": 28953409847502,
+        "product_id": 6764390744270,
+        "position": 1,
+        "created_at": "2021-09-11T20:33:18+08:00",
+        "updated_at": "2021-09-11T20:33:18+08:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/62a3dd0421fc5ccf4df6815b3694d734.jpg?v=1631363598",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28953409847502"
+      }
+    },
+    {
+      "id": 6764391530702,
+      "title": "NIKE | SWOOSH PRO FLAT PEAK CAP",
+      "body_html": "The Nike Swoosh Pro Flat Snapback features an embroidered logo for style and wool construction with an adjustable closure for a comfortable fit.",
+      "vendor": "NIKE",
+      "product_type": "ACCESSORIES",
+      "created_at": "2021-09-11T20:34:03+08:00",
+      "handle": "nike-swoosh-pro-flat-peak-cap",
+      "updated_at": "2021-09-11T20:35:12+08:00",
+      "published_at": "2021-09-11T20:34:03+08:00",
+      "template_suffix": null,
+      "status": "active",
+      "published_scope": "web",
+      "tags": "cap, egnition-sample-data, nike",
+      "admin_graphql_api_id": "gid://shopify/Product/6764391530702",
+      "options": [
+        {
+          "id": 8680001208526,
+          "product_id": 6764391530702,
+          "name": "Size",
+          "position": 1
+        },
+        {
+          "id": 8680001241294,
+          "product_id": 6764391530702,
+          "name": "Color",
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 28953416728782,
+          "product_id": 6764391530702,
+          "position": 1,
+          "created_at": "2021-09-11T20:34:04+08:00",
+          "updated_at": "2021-09-11T20:34:04+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/58262e66c5e9731050280eb16880d5a4.jpg?v=1631363644",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953416728782"
+        },
+        {
+          "id": 28953416761550,
+          "product_id": 6764391530702,
+          "position": 2,
+          "created_at": "2021-09-11T20:34:04+08:00",
+          "updated_at": "2021-09-11T20:34:04+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/0c431da3011f1bc086cb561266367207.jpg?v=1631363644",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953416761550"
+        },
+        {
+          "id": 28953416794318,
+          "product_id": 6764391530702,
+          "position": 3,
+          "created_at": "2021-09-11T20:34:04+08:00",
+          "updated_at": "2021-09-11T20:34:04+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/93c1c61ff207aac853d1f482e03fcd3c.jpg?v=1631363644",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953416794318"
+        },
+        {
+          "id": 28953416827086,
+          "product_id": 6764391530702,
+          "position": 4,
+          "created_at": "2021-09-11T20:34:04+08:00",
+          "updated_at": "2021-09-11T20:34:04+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/c1a864cb74de0e0fd0004872d6a00edd.jpg?v=1631363644",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953416827086"
+        }
+      ],
+      "image": {
+        "id": 28953416728782,
+        "product_id": 6764391530702,
+        "position": 1,
+        "created_at": "2021-09-11T20:34:04+08:00",
+        "updated_at": "2021-09-11T20:34:04+08:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/58262e66c5e9731050280eb16880d5a4.jpg?v=1631363644",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28953416728782"
+      }
+    }
+  ]
+}

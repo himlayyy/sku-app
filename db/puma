@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 6764390318286,
+      "title": "PUMA | SUEDE CLASSIC REGAL",
+      "body_html": "First introduced in 1968, the Puma Suede Classic is Puma's most epic sneaker with its athletic inspired design and smooth suede. The Puma Suede Classic Regal Red/White is constructed with a suede upper and contrasting low profile rubber sole, and fat laces, the classic continues to make its mark on the streets today.",
+      "vendor": "PUMA",
+      "product_type": "SHOES",
+      "created_at": "2021-09-11T20:32:47+08:00",
+      "handle": "puma-suede-classic-regal",
+      "updated_at": "2021-09-11T20:45:15+08:00",
+      "published_at": "2021-09-11T20:32:47+08:00",
+      "template_suffix": null,
+      "status": "active",
+      "published_scope": "web",
+      "tags": "egnition-sample-data, men, puma, summer",
+      "admin_graphql_api_id": "gid://shopify/Product/6764390318286",
+      "options": [
+        {
+          "id": 8679999078606,
+          "product_id": 6764390318286,
+          "name": "Size",
+          "position": 1
+        },
+        {
+          "id": 8679999111374,
+          "product_id": 6764390318286,
+          "name": "Color",
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 28953405849806,
+          "product_id": 6764390318286,
+          "position": 1,
+          "created_at": "2021-09-11T20:32:47+08:00",
+          "updated_at": "2021-09-11T20:32:47+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/e7a2b189514d134630552681e4c8bc07.jpg?v=1631363567",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405849806"
+        },
+        {
+          "id": 28953405882574,
+          "product_id": 6764390318286,
+          "position": 2,
+          "created_at": "2021-09-11T20:32:47+08:00",
+          "updated_at": "2021-09-11T20:32:47+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/5fe3e1be9e0d18d258b82926ae85b615.jpg?v=1631363567",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405882574"
+        },
+        {
+          "id": 28953405915342,
+          "product_id": 6764390318286,
+          "position": 3,
+          "created_at": "2021-09-11T20:32:47+08:00",
+          "updated_at": "2021-09-11T20:32:47+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/ecea2098a51def12d369589555d311b8.jpg?v=1631363567",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405915342"
+        },
+        {
+          "id": 28953405948110,
+          "product_id": 6764390318286,
+          "position": 4,
+          "created_at": "2021-09-11T20:32:47+08:00",
+          "updated_at": "2021-09-11T20:32:47+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/0507c91ca02c25cbadad6a2b0e01c914.jpg?v=1631363567",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405948110"
+        },
+        {
+          "id": 28953405980878,
+          "product_id": 6764390318286,
+          "position": 5,
+          "created_at": "2021-09-11T20:32:47+08:00",
+          "updated_at": "2021-09-11T20:32:47+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/a9395927d8bbeb473d8d51156f730f21.jpg?v=1631363567",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405980878"
+        }
+      ],
+      "image": {
+        "id": 28953405849806,
+        "product_id": 6764390318286,
+        "position": 1,
+        "created_at": "2021-09-11T20:32:47+08:00",
+        "updated_at": "2021-09-11T20:32:47+08:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/e7a2b189514d134630552681e4c8bc07.jpg?v=1631363567",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28953405849806"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+import sqlite3
+from sqlite3 import Error
+
+def create_connection(db_file):
+    """create a database connection to a SQLite database"""
+    conn = None
+    try:
+        conn = sqlite3.connect(db_file)
+    except Error as e:
+        print(e)
+    finally:
+        if conn:
+            conn.close()
+
+#smart collections table
+CREATE TABLE IF NOT EXISTS smart_collections(
+    id interger PRIMARY KEY,
+    handle text NOT NULL,
+    title text NOT NULL,
+    updated_at text NOT NULL,
+    body_html text NOT NULL,
+    published_at text NOT NULL,
+    sort_order text NOT NULL,
+    template_suffix text,
+    disjunctive text NOT  NULL,
+    rules text,
+    published_scope text,
+    admin_graphql_api_id text NOT NULL,
+    image blob,
+
+      
+)
+
+if __name__ == '__main__':
+    create_connection(r"C:\Users\Guest User\skuapp\db\skuapp.db")

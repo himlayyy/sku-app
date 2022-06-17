@@ -1,0 +1,20 @@
+Get all collections via get_smart_collections 
+    - collection name
+    - collection id
+With the use of collection id, get all products via get_collection_products
+    - product id
+    - product 
+    - save to db
+Get all product variants via get_variants
+    - variant_id
+    - variant_title
+    - save to db
+Delete all variant SKUs
+Update variant SKUs
+
+    
+There are 30 products sa store
+Products are categorized by Brands/Vendors
+
+The SKU syntax:
+BRAND-BRAND.INDEX.({PROUDCT})-product.variant.option1.value - product.variant.option2.value

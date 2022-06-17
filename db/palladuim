@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 6764390219982,
+      "title": "PALLADIUM | PALLATECH HI TX | CHEVRON",
+      "body_html": "The Palladium iconic classic receives a subtle, yet stylish update. The Pallatech Hi TX features a full grain leather upper with cotton canvas and soft cuff around the collar, providing even more comfort. The boot is finished with a single-unit molded rubber outsole, offering excellent traction while exploring your city. The EVA-cushioned footbed and hugging heel cup cradle the foot for lasting support.",
+      "vendor": "PALLADIUM",
+      "product_type": "SHOES",
+      "created_at": "2021-09-11T20:32:40+08:00",
+      "handle": "palladium-pallatech-hi-tx-chevron",
+      "updated_at": "2021-09-11T20:34:32+08:00",
+      "published_at": "2021-09-11T20:32:40+08:00",
+      "template_suffix": null,
+      "status": "active",
+      "published_scope": "web",
+      "tags": "egnition-sample-data, men, palladium, winter",
+      "admin_graphql_api_id": "gid://shopify/Product/6764390219982",
+      "options": [
+        {
+          "id": 8679998881998,
+          "product_id": 6764390219982,
+          "name": "Size",
+          "position": 1
+        },
+        {
+          "id": 8679998914766,
+          "product_id": 6764390219982,
+          "name": "Color",
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 28953405096142,
+          "product_id": 6764390219982,
+          "position": 1,
+          "created_at": "2021-09-11T20:32:40+08:00",
+          "updated_at": "2021-09-11T20:32:40+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/09ba62adafa6de79108792f1e5467f6e.jpg?v=1631363560",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405096142"
+        },
+        {
+          "id": 28953405128910,
+          "product_id": 6764390219982,
+          "position": 2,
+          "created_at": "2021-09-11T20:32:40+08:00",
+          "updated_at": "2021-09-11T20:32:40+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/6996e186647807bebac34facded1b121.jpg?v=1631363560",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405128910"
+        },
+        {
+          "id": 28953405161678,
+          "product_id": 6764390219982,
+          "position": 3,
+          "created_at": "2021-09-11T20:32:40+08:00",
+          "updated_at": "2021-09-11T20:32:40+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/a800346484623127603c77b6ad2d6237.jpg?v=1631363560",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405161678"
+        },
+        {
+          "id": 28953405194446,
+          "product_id": 6764390219982,
+          "position": 4,
+          "created_at": "2021-09-11T20:32:40+08:00",
+          "updated_at": "2021-09-11T20:32:40+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/916ee4322e17f26d06193fec211e2378.jpg?v=1631363560",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405194446"
+        },
+        {
+          "id": 28953405227214,
+          "product_id": 6764390219982,
+          "position": 5,
+          "created_at": "2021-09-11T20:32:40+08:00",
+          "updated_at": "2021-09-11T20:32:40+08:00",
+          "alt": null,
+          "width": 635,
+          "height": 560,
+          "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/7b92aa501b2b0a8f5f5b8b8ad2b4a7a5.jpg?v=1631363560",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/28953405227214"
+        }
+      ],
+      "image": {
+        "id": 28953405096142,
+        "product_id": 6764390219982,
+        "position": 1,
+        "created_at": "2021-09-11T20:32:40+08:00",
+        "updated_at": "2021-09-11T20:32:40+08:00",
+        "alt": null,
+        "width": 635,
+        "height": 560,
+        "src": "https://cdn.shopify.com/s/files/1/0590/8722/5038/products/09ba62adafa6de79108792f1e5467f6e.jpg?v=1631363560",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/28953405096142"
+      }
+    }
+  ]
+}
